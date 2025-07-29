@@ -63,3 +63,6 @@ packages/
 *.g.cs
 *.g.i.cs
 Generated/
+
+# CLI Generated Files
+nohup.out
